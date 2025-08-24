@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f8f9fa;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 60px;
+}
+
+button {
+  cursor: pointer;
+}
